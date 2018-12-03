@@ -1,0 +1,9 @@
+@tag
+Feature: Login in newtours page
+
+  @tag @tag1
+  Scenario: Login in newtours         [90m# features/loginSerenity.feature:8[0m
+    [32mGiven [0m[32mThe newtours login page[0m     [90m# NewtoursLoginStepDefinitions.the_newtours_login_page()[0m
+    [32mWhen [0m[32mI fill the user and password[0m [90m# NewtoursLoginStepDefinitions.i_fill_the_user_and_password()[0m
+    [32mAnd [0m[32mClick the submit button[0m       [90m# NewtoursLoginStepDefinitions.click_the_submit_button()[0m
+    [32mThen [0m[32mI access to a new page[0m       [90m# NewtoursLoginStepDefinitions.i_access_to_a_new_page()[0m

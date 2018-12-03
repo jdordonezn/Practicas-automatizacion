@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Login in newtours page" tests="1" skipped="0" failures="0" errors="0" timestamp="2018-11-19T13:03:22" hostname="DESKTOP-R0NGCAK" time="9.657">
+  <properties/>
+  <testcase name="Login in newtours" classname="Login in newtours page" time="9.657"/>
+  <system-out><![CDATA[Accedo como usuario
+]]></system-out>
+  <system-err><![CDATA[nov 19, 2018 8:03:22 AM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFORMACIÓN: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+Starting ChromeDriver 2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a) on port 21917
+Only local connections are allowed.
+nov 19, 2018 8:03:25 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACIÓN: Detected dialect: OSS
+[Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - 
+        __    _____ _____ ____ _____   ____   _    ____  ____  _____ ____  
+  _     \ \  |_   _| ____/ ___|_   _| |  _ \ / \  / ___|/ ___|| ____|  _ \ 
+ (_)_____| |   | | |  _| \___ \ | |   | |_) / _ \ \___ \\___ \|  _| | | | |
+  _|_____| |   | | | |___ ___) || |   |  __/ ___ \ ___) |___) | |___| |_| |
+ (_)     | |   |_| |_____|____/ |_|   |_| /_/   \_\____/|____/|_____|____/ 
+        /_/                                                                
+
+TEST PASSED: Login in newtours
+----------------------------------------------------------------------------
+]]></system-err>
+</testsuite>

@@ -1,0 +1,74 @@
+[
+  {
+    "source": "^I fill the user and password$",
+    "steps": [
+      {
+        "name": "I fill the user and password",
+        "aggregatedDurations": {
+          "average": 1.018309646,
+          "median": 1.018309646
+        },
+        "durations": [
+          {
+            "duration": 1.018309646,
+            "location": "features/loginSerenity.feature:10"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^The newtours login page$",
+    "steps": [
+      {
+        "name": "The newtours login page",
+        "aggregatedDurations": {
+          "average": 9.075317545,
+          "median": 9.075317545
+        },
+        "durations": [
+          {
+            "duration": 9.075317545,
+            "location": "features/loginSerenity.feature:9"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^I access to a new page$",
+    "steps": [
+      {
+        "name": "I access to a new page",
+        "aggregatedDurations": {
+          "average": 0.254732975,
+          "median": 0.254732975
+        },
+        "durations": [
+          {
+            "duration": 0.254732975,
+            "location": "features/loginSerenity.feature:12"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^Click the submit button$",
+    "steps": [
+      {
+        "name": "Click the submit button",
+        "aggregatedDurations": {
+          "average": 2.299958844,
+          "median": 2.299958844
+        },
+        "durations": [
+          {
+            "duration": 2.299958844,
+            "location": "features/loginSerenity.feature:11"
+          }
+        ]
+      }
+    ]
+  }
+]
