@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><testsuite errors="1" failures="0" name="Register in Geelbe.com" skipped="0" tests="1" time="31.98" timestamp="2018-12-02 12:48:44"><testcase name="Register with correct data"><error message="Expected condition failed: waiting for By.xpath: /html[1]/body[1]/header[1]/div[1]/div[1]/p[1] to be displayed (tried for 5 second(s) with 100 milliseconds interval)&#10;Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'&#10;System info: host: 'DESKTOP-R0NGCAK', ip: '192.168.1.62', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'&#10;Driver info: driver.version: unknown" type="java.lang.AssertionError">Expected condition failed: waiting for By.xpath: /html[1]/body[1]/header[1]/div[1]/div[1]/p[1] to be displayed (tried for 5 second(s) with 100 milliseconds interval)
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'DESKTOP-R0NGCAK', ip: '192.168.1.62', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: driver.version: unknown</error><system-err>Expected condition failed: waiting for By.xpath: /html[1]/body[1]/header[1]/div[1]/div[1]/p[1] to be displayed (tried for 5 second(s) with 100 milliseconds interval)
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'DESKTOP-R0NGCAK', ip: '192.168.1.62', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: driver.version: unknown&#13;
+co.com.geelbe.certtification.stepDefinitions.RegisterGeelbeStepDefinitions.he_should_see_the_message_in_the_screen(RegisterGeelbeStepDefinitions.java:48)&#13;
+✽.he should see the message in the screen(src/test/resources/features/registerGeelbe.feature:13)&#13;
+</system-err></testcase></testsuite>
