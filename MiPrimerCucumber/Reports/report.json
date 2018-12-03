@@ -1,0 +1,85 @@
+[
+  {
+    "line": 5,
+    "elements": [
+      {
+        "line": 9,
+        "name": "Busqueda exitosa",
+        "description": "",
+        "id": "buscar-en-google;busqueda-exitosa",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 3112466390,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "Que puedo abrir el navegador",
+            "match": {
+              "location": "BuscarEnGoogleStepDefinitions.que_puedo_abrir_el_navegador()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 4592326571,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "Voy a google y realizo una busqueda",
+            "match": {
+              "location": "BuscarEnGoogleStepDefinitions.voy_a_google_y_realizo_una_busqueda()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 12,
+            "name": "Realizo una busqueda",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 9086,
+              "status": "skipped"
+            },
+            "line": 13,
+            "name": "Valido que el resultado sea el esperado",
+            "match": {
+              "location": "BuscarEnGoogleStepDefinitions.valido_que_el_resultado_sea_el_esperado()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@tag"
+          },
+          {
+            "name": "@tag1"
+          }
+        ]
+      }
+    ],
+    "name": "Buscar en Google",
+    "description": "  Yo quiero usar google para buscar una cadena de texto",
+    "id": "buscar-en-google",
+    "keyword": "Feature",
+    "uri": "Features/BuscarEnGoogle.Feature",
+    "tags": [
+      {
+        "name": "@tag",
+        "type": "Tag",
+        "location": {
+          "line": 4,
+          "column": 1
+        }
+      }
+    ]
+  }
+]
