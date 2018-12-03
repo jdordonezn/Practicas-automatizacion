@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="Compra de pelicula en Cinecolombia" skipped="0" tests="1" time="20.99" timestamp="2018-11-22 11:11:33"><testcase name="Compra de pelicula en Cinemas Cinecolombia"><error message="Expected condition failed: waiting for By.name:  to be displayed (tried for 5 second(s) with 100 milliseconds interval)&#10;Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'&#10;System info: host: 'DESKTOP-R0NGCAK', ip: '172.23.81.81', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'&#10;Driver info: driver.version: unknown" type="java.lang.AssertionError">Expected condition failed: waiting for By.name:  to be displayed (tried for 5 second(s) with 100 milliseconds interval)
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'DESKTOP-R0NGCAK', ip: '172.23.81.81', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: driver.version: unknown</error><system-err>Expected condition failed: waiting for By.name:  to be displayed (tried for 5 second(s) with 100 milliseconds interval)
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'DESKTOP-R0NGCAK', ip: '172.23.81.81', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: driver.version: unknown&#13;
+com.cinecolombia.compra.stepsdefinitions.CompraPeliculaCinecolombiaStepDefinitions.seleccionoUnaPeliculaDeInteres(CompraPeliculaCinecolombiaStepDefinitions.java:60)&#13;
+✽.Selecciono una pelicula de interes &lt;|namepelicula|&gt;(src/test/resources/features/CompraPeliculaCinecolombia.feature:12)&#13;
+</system-err></testcase></testsuite>
